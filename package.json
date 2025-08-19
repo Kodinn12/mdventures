@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://mdventure00.github",
-
+"homepage": "https://kodinn12.github.io/mdventures",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
